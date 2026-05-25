@@ -57,15 +57,19 @@ I enjoy building AI systems that solve real-world problems.
 
 ---
 
-## 🛠 Languages and Tools
+## 🛠 Languages & Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,react,javascript,nodejs,firebase,html,css,git,github,c,cpp,linux"/>
+<img src="https://skillicons.dev/icons?i=python,react,js,html,css,firebase,git,github,vscode"/>
 
 </p>
 
----
+<p align="center">
+
+Python • JavaScript • React.js • HTML • CSS • Firebase • Git • GitHub • VS Code • Scikit-learn • NumPy • Pandas
+
+</p>
 
 ## 🧠 AI / Data Science Skills
 
