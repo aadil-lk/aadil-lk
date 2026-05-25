@@ -145,25 +145,12 @@ Tech Used:
 - System validation
 - Technical documentation
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aadil-lk&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadil-lk&layout=compact&theme=tokyonight"/>
-
-<img src="https://streak-stats.demolab.com/?user=aadil-lk&theme=tokyonight"/>
-
-</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="www.linkedin.com/in/aadil-lakhpatwala-56a988352">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
