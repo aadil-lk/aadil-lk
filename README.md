@@ -149,8 +149,7 @@ Tech Used:
 ---
 
 ## 🌐 Connect With Me
-
-<a href="www.linkedin.com/in/aadil-lakhpatwala-56a988352">
+<a href="https://www.linkedin.com/in/aadil-lakhpatwala-56a988352/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
