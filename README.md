@@ -1,16 +1,20 @@
-<h1 align="center">Hi 👋 I'm Aadil Ayaz Lakhpatwala</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Aadil%20Lakhpatwala&fontSize=40"/>
+
+<h1 align="center">Hi 👋 I'm Aadil Lakhpatwala</h1>
 
 <h3 align="center">
 AI Engineering • Data Science • Full Stack Development • Cybersecurity
 </h3>
 
 <p align="center">
-Passionate about building AI-powered applications, intelligent systems, and solving real-world problems with technology 🚀
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+Enthusiast;Frontend+Developer;Python+Learner;Building+Real+Projects;Future+AI+Researcher"/>
 </p>
 
-<img align="right" alt="coding" width="400"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<p align="center">
+Passionate about building AI-powered applications, intelligent systems, and solving real-world problems with technology
+</p>
 
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggACSPVv687qPC/giphy.gif"/>
 ---
 
 ## 🚀 About Me
