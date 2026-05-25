@@ -1,45 +1,61 @@
 <h1 align="center">Hi 👋 I'm Aadil Ayaz Lakhpatwala</h1>
 
 <h3 align="center">
-AI • Data Science • Full Stack Development • Cybersecurity
+AI Engineering • Data Science • Full Stack Development • Cybersecurity
 </h3>
 
 <p align="center">
-Passionate about building AI-powered applications, intelligent systems, and data-driven solutions 🚀
+Passionate about building AI-powered applications, intelligent systems, and solving real-world problems with technology 🚀
 </p>
 
-<img align="right" alt="Coding" width="400"
+<img align="right" alt="coding" width="400"
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ---
 
 ## 🚀 About Me
 
-🔭 Currently building **AI-driven applications & intelligent systems**
+🎓 Electronics & Computer Science Engineering Student
 
-🌱 Currently learning **LLMs, NLP, React, Flutter, AI Engineering**
+💻 Interested in:
 
-👨‍💻 Working on:
-- 🤖 MS AI Chatbot
-- 🌐 Auditium – AI Web Audit Platform
-- 📱 Multi-Marketplace Aggregator App
-
-💬 Ask me about:
-- Python
-- React
-- Machine Learning
-- AI
+- Artificial Intelligence
 - Data Science
+- Full Stack Development
+- Machine Learning
+- NLP
 - Cybersecurity
 
-⚡ Fun fact:
-I enjoy solving real-world problems with AI and automation.
+🌱 Currently learning:
+
+- Large Language Models (LLMs)
+- AI Engineering
+- React
+- Flutter
+- Advanced NLP
+- Prompt Engineering
+
+⚡ Fun Fact:
+
+I enjoy building AI systems that solve real-world problems.
 
 ---
 
-## 🛠 Languages & Tools
+## 👨‍💻 Working On:
 
-<p>
+- 🤖 MS AI Chatbot – Multi-category AI recommendation & conversational system
+- 🌐 Auditium – AI-powered Website Audit & Analytics Platform
+- 📱 Multi-Marketplace Aggregator App
+- 🧠 Exploring LLMs & NLP pipelines
+- 🔍 Building AI-driven data applications and automation workflows
+- 🔒 Learning Cybersecurity, GRC & Data Privacy frameworks
+- 📊 Improving Machine Learning and Data Science skills
+
+---
+
+## 🛠 Languages and Tools
+
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,react,javascript,nodejs,firebase,html,css,git,github,c,cpp,linux"/>
 
@@ -58,7 +74,9 @@ I enjoy solving real-world problems with AI and automation.
 ✔ Data Parsing  
 ✔ Data Quality Assurance  
 ✔ Predictive Routing  
-✔ Data Governance (GRC)
+✔ Data Governance (GRC)  
+✔ API Integration  
+✔ Data Visualization
 
 ---
 
@@ -66,52 +84,66 @@ I enjoy solving real-world problems with AI and automation.
 
 ### 🌐 Auditium — AI & Data-Driven Web Audit Platform
 
-- Built using React + Firebase
-- Integrated OpenAI agents
+- Built with React + Firebase
+- Integrated AI agents
 - Automated website auditing
 - Structured unstructured web data into reports
 
 ---
 
-### 🤖 Robot Path Detection & Obstacle Avoidance System
+### 🤖 Robot Path Detection & Predictive Obstacle Avoidance System
 
-- Implemented:
-  - A*
-  - Dijkstra
-  - BFS
+Implemented:
 
-- Used:
-  - Python
-  - NumPy
-  - Pandas
-  - Matplotlib
-  - Scikit-Learn
+- A*
+- Dijkstra
+- BFS
+
+Tech Used:
+
+- Python
+- NumPy
+- Pandas
+- Scikit-learn
+- Matplotlib
 
 ---
 
-### 😊 AI Sentiment Analyzer
+### 😊 AI-Driven Sentiment Analyzer
 
 - NLP-based sentiment classification
-- Positive / Negative / Neutral detection
-- Predictive scoring system
+- Positive / Negative / Neutral prediction
+- Quantitative sentiment scoring
 
 ---
 
 ### 🔒 Network Intrusion Detection System
 
-- Real-time traffic monitoring
-- Anomaly detection
-- Security threat identification
+- Real-time network traffic monitoring
+- Threat detection
+- Anomaly detection algorithms
 
 ---
 
 ## 💼 Experience
 
-🔹 Data & Quality Assurance Intern — MouthShut.com
+### Data & Quality Assurance Intern | MouthShut.com
 
-🔹 Cybersecurity & GRC Intern — CyberXchange
+- Manual & automated testing
+- Data integrity validation
+- Playwright automation
 
-🔹 Product Design & QA Intern — AEC
+### Cybersecurity & GRC Intern | CyberXchange
+
+- Risk assessment
+- Compliance auditing
+- Security analysis
+
+### Product Design & QA Intern | AEC
+
+- Hardware debugging
+- System validation
+- Technical documentation
 
 ---
 
