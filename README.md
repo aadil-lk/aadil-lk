@@ -14,7 +14,7 @@ AI Engineering • Data Science • Full Stack Development • Cybersecurity
 Passionate about building AI-powered applications, intelligent systems, and solving real-world problems with technology
 </p>
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggACSPVv687qPC/giphy.gif"/>
+<img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 ---
 
 ## 🚀 About Me
